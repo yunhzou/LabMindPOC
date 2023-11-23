@@ -1,0 +1,16 @@
+{
+    "image_3": {
+        "microscope_model": "SU8000",
+        "EHT_kV": 20.0,
+        "working_distance_mm": 11.3,
+        "magnification": 100000,
+        "signal_type": "SE(U)",
+        "sample_description": "Pd nanoparticles on carbon, Dataset 1 (ordered)",
+        "DOI": "10.6084/m9.figshare.11783661",
+        "project_association": "AnanikovLab.ru",
+        "image_format": "tif",
+        "image_type": "SEM_image",
+        "field_of_study": "nanomaterials",
+        "file_name": "6-S1-no_area-100k-ordered.tif"
+    }
+}
